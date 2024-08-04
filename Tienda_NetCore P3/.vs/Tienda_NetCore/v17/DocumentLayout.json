@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\Tienda_NetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|c:\\proyectos\\tienda_netcore\\tienda_netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|solutionrelative:tienda_netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|c:\\proyectos\\tienda_netcore\\tienda_netcore\\views\\venta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|solutionrelative:tienda_netcore\\views\\venta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|c:\\proyectos\\tienda_netcore\\tienda_netcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|solutionrelative:tienda_netcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|c:\\proyectos\\tienda_netcore\\tienda_netcore\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|solutionrelative:tienda_netcore\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|c:\\proyectos\\tienda_netcore\\tienda_netcore\\views\\carrito\\carritovacio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|solutionrelative:tienda_netcore\\views\\carrito\\carritovacio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|c:\\proyectos\\tienda_netcore\\tienda_netcore\\views\\carrito\\mostrarcarrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|solutionrelative:tienda_netcore\\views\\carrito\\mostrarcarrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|c:\\proyectos\\tienda_netcore\\tienda_netcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|solutionrelative:tienda_netcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|c:\\proyectos\\tienda_netcore\\tienda_netcore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF2570D4-C0A3-4126-8987-932B813408AD}|Tienda_NetCore\\Tienda_NetCore.csproj|solutionrelative:tienda_netcore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Venta\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda_NetCore\\Views\\Venta\\Index.cshtml",
+              "ToolTip": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Venta\\Index.cshtml",
+              "RelativeToolTip": "Tienda_NetCore\\Views\\Venta\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:47:37.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Program.cs",
+              "RelativeDocumentMoniker": "Tienda_NetCore\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Program.cs",
+              "RelativeToolTip": "Tienda_NetCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:43:22.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarritoVacio.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Carrito\\CarritoVacio.cshtml",
+              "RelativeDocumentMoniker": "Tienda_NetCore\\Views\\Carrito\\CarritoVacio.cshtml",
+              "ToolTip": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Carrito\\CarritoVacio.cshtml",
+              "RelativeToolTip": "Tienda_NetCore\\Views\\Carrito\\CarritoVacio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:41:00.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MostrarCarrito.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Carrito\\MostrarCarrito.cshtml",
+              "RelativeDocumentMoniker": "Tienda_NetCore\\Views\\Carrito\\MostrarCarrito.cshtml",
+              "ToolTip": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Carrito\\MostrarCarrito.cshtml",
+              "RelativeToolTip": "Tienda_NetCore\\Views\\Carrito\\MostrarCarrito.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:40:44.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Cuenta\\Login.cshtml",
+              "RelativeDocumentMoniker": "Tienda_NetCore\\Views\\Cuenta\\Login.cshtml",
+              "ToolTip": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Cuenta\\Login.cshtml",
+              "RelativeToolTip": "Tienda_NetCore\\Views\\Cuenta\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:37:14.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tienda_NetCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tienda_NetCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:24:50.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Tienda_NetCore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Tienda_NetCore\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAcAAAAANDMzMzMLwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T02:16:34.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda_NetCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Proyectos\\Tienda_NetCore\\Tienda_NetCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Tienda_NetCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEMAAAAANDMzMzMLwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T02:04:15.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
